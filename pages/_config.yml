@@ -1,0 +1,8 @@
+title: Книжный онлайн-магазин
+author: Аладко Анастасия, Будник Кирилл, Ладик Алина, Шейнин Василий.
+description: > # this means to ignore newlines until "baseurl:"
+  Проект "Книжный онлайн-магазин"
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-cayman
