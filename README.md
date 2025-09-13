@@ -7,7 +7,11 @@
 Чтобы начать работу с приложеинем, скачайте и установите приложение на телефон или эмулятор. Чтобы начать работу с электронным сайтом, введите его адрес в поисковой строке.
 
 # Sub Modules
+[Backend](https://github.com/fpmi-hci-2025/project12b-backend-aquarius.git) 
 
+[Mobile](https://github.com/fpmi-hci-2025/project12b-mobile-aquarius.git) 
+
+[Web](https://github.com/fpmi-hci-2025/project12b-web-aquarius.git) 
 # Usage
 
 # Contributing
