@@ -24,3 +24,13 @@ Memory Card Game — это не просто игра, а тренажёр дл
 
 
 # Contributing
+## Авторы проекта: **Аладко Анастасия, Будник Кирилл, Ладик Алина, Шейнин Василий.**
+
+1. **Team Lead:** Будник Крилл.
+2. **Project Manager** Ладик Алина.
+3. **UX/UI-Designer** Аладко Анастасия.
+4. **Mobile Developer:** Ладик Алина.
+5. **Web Developer:** Аладко Анастасия.
+6. **Backend Developer:** Шейнин Василий.
+7. **DevOps & QA Engineer:** Шейнин Василий.
+8. **Technical Writer:** Будник Кирилл.
