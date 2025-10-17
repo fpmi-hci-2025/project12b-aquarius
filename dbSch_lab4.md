@@ -201,5 +201,6 @@
 | UserId     | Идентификатор пользователя | uuid NOT NULL                  |
 | CreatedAt  | Дата создания записи       | timestamp with time zone NOT NULL |
 | UpdatedAt  | Дата обновления записи     | timestamp with time zone NOT NULL |
+
 # Физическая модель базы данных
 ![model](https://github.com/fpmi-hci-2025/project12b-aquarius/blob/f7f30b07aed74da8908641b7314a041d7f281dcd/img/bookstore%20-%20public.png?raw=true)
