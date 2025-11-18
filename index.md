@@ -58,3 +58,4 @@
 - [(Лаб 6) TLM](tlm_lab6.md)
 - [(Лаб 6) Анализ интерфейса по показателям производительности](success_lab6.md)
 - [(Лаб 6) System Usability Scale](sus_lab6.md)
+- [(Лаб 7) API](lab7.md)
