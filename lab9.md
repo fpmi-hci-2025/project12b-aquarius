@@ -119,6 +119,7 @@
 
 ## Диаграмма бизнес процессов
 
+
 ## Диаграмма вариантов использования
 ![usecase](https://github.com/fpmi-hci-2025/project12b-aquarius/blob/6792df8de6037109f95dfc3b903389ca987502a3/img/usecaseBookStore.svg?raw=true)
 
@@ -129,7 +130,7 @@
 
 ### Выбор книги, используя фильтры
 ![filter](https://github.com/fpmi-hci-2025/project12b-aquarius/blob/354bbe3ca42f2bbd77b0032421d1d9b6cd55d755/img/filterSeq.svg?raw=true)
-
+![d](https://github.com/fpmi-hci-2025/project12b-aquarius/blob/753a298cd986f1d883f99a79b29b915714e3fa98/img/Untitled%20diagram-2025-12-15-193617.svg?raw=true)
 ### Последовательность входа в личный кабинет
 ![login](https://github.com/fpmi-hci-2025/project12b-aquarius/blob/354bbe3ca42f2bbd77b0032421d1d9b6cd55d755/img/loginSeq.svg?raw=true)
 
@@ -250,6 +251,9 @@
 
 <img width="1067" height="305" alt="image" src="https://github.com/user-attachments/assets/c0be9961-51bb-43d5-90f1-426fd00ae9f8" />
 <img width="1089" height="225" alt="image" src="https://github.com/user-attachments/assets/6068f3e1-8088-41cb-b57d-dfa466280f80" />
+
+<img width="706" height="436" alt="image" src="https://github.com/user-attachments/assets/80794452-074d-48c8-bace-7f0de8f6af0e" />
+
 
 
 
