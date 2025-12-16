@@ -124,13 +124,13 @@
 ![usecase](https://github.com/fpmi-hci-2025/project12b-aquarius/blob/6792df8de6037109f95dfc3b903389ca987502a3/img/usecaseBookStore.svg?raw=true)
 
 ## Диаграммы деятельности
-
+![d](https://github.com/fpmi-hci-2025/project12b-aquarius/blob/753a298cd986f1d883f99a79b29b915714e3fa98/img/Untitled%20diagram-2025-12-15-193617.svg?raw=true)
 ### Работа с аналитикой для админа
 ![admin](https://github.com/fpmi-hci-2025/project12b-aquarius/blob/354bbe3ca42f2bbd77b0032421d1d9b6cd55d755/img/adminSeq.svg?raw=true)
 
 ### Выбор книги, используя фильтры
 ![filter](https://github.com/fpmi-hci-2025/project12b-aquarius/blob/354bbe3ca42f2bbd77b0032421d1d9b6cd55d755/img/filterSeq.svg?raw=true)
-![d](https://github.com/fpmi-hci-2025/project12b-aquarius/blob/753a298cd986f1d883f99a79b29b915714e3fa98/img/Untitled%20diagram-2025-12-15-193617.svg?raw=true)
+
 ### Последовательность входа в личный кабинет
 ![login](https://github.com/fpmi-hci-2025/project12b-aquarius/blob/354bbe3ca42f2bbd77b0032421d1d9b6cd55d755/img/loginSeq.svg?raw=true)
 
